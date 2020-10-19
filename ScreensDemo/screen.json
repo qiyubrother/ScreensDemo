@@ -1,0 +1,16 @@
+{
+  "screens": [
+    {
+      "DisplayName": "\\\\.\\DISPLAY1",
+      "NickName": "主控屏" /* The NickName field is readonly */
+    },
+    {
+      "DisplayName": "\\\\.\\DISPLAY6",
+      "NickName": "提示屏" /* The NickName field is readonly */
+    },
+    {
+      "DisplayName": "\\\\.\\DISPLAY9",
+      "NickName": "白板屏" /* The NickName field is readonly */
+    }
+  ]
+}
